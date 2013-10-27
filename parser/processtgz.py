@@ -1,6 +1,6 @@
 #!/bin/python -u
 
-__author__ = "jay.zhai@gmail.com"
+__author__ = "jzhai"
 
 import tarfile
 
